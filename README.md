@@ -1,4 +1,4 @@
-# MERN Todo App
+# MERN Todo WEB App
 
 A full-stack Todo app built using **MongoDB, Express, React, and Node.js**.
 
