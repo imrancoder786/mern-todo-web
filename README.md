@@ -47,14 +47,15 @@ npm install
 ---
 
 ## 🚀 Running the Application
+## **run Separately both frontend and backend*
 
-### 🔹 Start Backend:
+### 🔹 Start Backend:(Works only in the backend folder)
 ```bash
 cd server
 npm start
 ```
 
-### 🔹 Start Frontend:
+### 🔹 Start Frontend:(Works only in the frontend folder)
 ```bash
 cd client
 npm start
