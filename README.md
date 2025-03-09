@@ -1,44 +1,83 @@
-# MERN Todo WEB App
+# MERN Todo Web App
 
-A full-stack Todo app built using **MongoDB, Express, React, and Node.js**.
+A full-stack Todo app built using MongoDB, Express, React, and Node.js.
 
-## Features
-✅ Add, Edit, Delete Todos  
-✅ Responsive UI  
+---
 
-## Tech Stack
+## 🚀 Live Demo
+[Live Demo](<Your_Live_Demo_URL>)
+
+---
+
+## 📋 Features
+✅ Add, Edit, and Delete Todos  
+✅ Responsive UI for seamless user experience  
+✅ Clean code structure with easy-to-follow navigation  
+
+---
+
+## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Backend:** Node.js, Express.js  
 - **Database:** MongoDB Atlas  
 
-## Installation
-##FOR BACKEND:
+---
 
+## 📂 Installation Guide
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/imrancoder786/mern-todo-web.git
+```
+
+### 🔹 Install Dependencies
+
+#### For Backend:
+```bash
 cd server
-
-npm install.
-
-
-##FOR FRONTEND:
-
-cd client
-
 npm install
+```
 
-
-##START BACKEND:
-
-cd server
-
-npm start
-
-
-##START FRONTEND:
-
+#### For Frontend:
+```bash
 cd client
+npm install
+```
 
+---
+
+## 🚀 Running the Application
+
+### 🔹 Start Backend:
+```bash
+cd server
 npm start
+```
 
-### Clone the Repository
-git clone https://github.com/your-username/mern-todo-app.git
+### 🔹 Start Frontend:
+```bash
+cd client
+npm start
+```
+
+The app will run on `http://localhost:3000` for the frontend and `http://localhost:5000` for the backend (default ports).
+
+---
+
+## 🤝 Contribution Guidelines
+1. **Fork the repository.**
+2. **Create a new branch:** `git checkout -b feature-name`
+3. **Commit your changes:** `git commit -m "Add new feature"`
+4. **Push the branch:** `git push origin feature-name`
+5. **Open a Pull Request.**
+
+---
+
+## 📞 Contact
+
+For any queries or support, feel free to reach out via [Email](mailto\:cse2023.imrani@gmail.com).
+
+---
+
+⭐ If you like this project, give it a star on [GitHub](https://github.com/imrancoder786/shipyard-web-project)! ⭐
 
