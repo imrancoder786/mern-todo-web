@@ -2,13 +2,6 @@
 
 A full-stack Todo app built using MongoDB, Express, React, and Node.js.
 
----
-
-## 🚀 Live Demo
-[Live Demo](<Your_Live_Demo_URL>)
-
----
-
 ## 📋 Features
 ✅ Add, Edit, and Delete Todos  
 ✅ Responsive UI for seamless user experience  
